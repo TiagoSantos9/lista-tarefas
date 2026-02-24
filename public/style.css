@@ -1,0 +1,23 @@
+body{
+font-family: Arial;
+margin:40px;
+}
+
+table{
+border-collapse: collapse;
+width:600px;
+}
+
+th, td{
+border:1px solid #ccc;
+padding:8px;
+text-align:left;
+}
+
+.alto{
+background:#fff3cd;
+}
+
+button{
+margin-right:5px;
+}
